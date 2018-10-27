@@ -99,6 +99,12 @@ contributions:
       url: "https://github.maks.com.br"
     url: "https://editor.p5js.org/Maksuel/full/rJ8gFndiQ"
     source: "https://editor.p5js.org/Maksuel/sketches/rJ8gFndiQ"
+  - title: "Seven-segment display clock"
+    author:
+      name: "Lord Flame Stryke"
+      url: "https://github.com/LordFlameStryke"
+    url: "https://editor.p5js.org/LordFlameStryke/full/rJNT5KWhQ"
+    source: "https://editor.p5js.org/LordFlameStryke/sketches/rJNT5KWhQ"
 ---
 
 In this coding challenge, I make a Seven-Segment Display with p5.js. This video is inspired by Tom Scott's: [What's The Longest Word You Can Write With Seven-Segment Displays?](https://youtu.be/zp4BMR88260).
